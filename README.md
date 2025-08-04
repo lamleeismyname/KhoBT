@@ -1,4 +1,4 @@
 # Kho bài tập code
-Beginner: dễ
-Intermediate: trung bình
-Advanced: khó
+Beginner: dễ  
+Intermediate: trung bình  
+Advanced: khó  
