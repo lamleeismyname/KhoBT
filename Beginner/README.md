@@ -1,6 +1,6 @@
 List bài tập:  
 [A cộng B](https://oj.vnoi.info/problem/post)  
-[Python File](https://oj.vnoi.info/problem/icpc21_mb_a)
+[Python File](https://oj.vnoi.info/problem/icpc21_mb_a)  
 [Boy or Girl](https://codeforces.com/problemset/problem/236/A)  
 [Tìm số nguyên tố](https://oj.vnoi.info/problem/pnumber)  
 [số thân thiện](https://oj.vnoi.info/problem/nknumfre)  
