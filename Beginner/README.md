@@ -6,4 +6,4 @@ List bài tập:
 [số thân thiện](https://oj.vnoi.info/problem/nknumfre)  
 [dãy con tăng dài nhất](https://oj.vnoi.info/problem/liq)  
 [lập lịch sửa chữa ô tô](https://oj.vnoi.info/problem/car)  
-
+[diễu hành_street parade](https://www.spoj.com/problems/STPAR/)  
