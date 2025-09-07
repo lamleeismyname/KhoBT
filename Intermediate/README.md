@@ -3,5 +3,5 @@ List bài tập:
 [dãy con tăng dài nhất_bản khó](https://oj.vnoi.info/problem/lis)  
 [Knapsack](https://oj.vnoi.info/problem/atcoder_dp_d)  
 [vấn đề với thang máy_elevator trouble](https://www.spoj.com/problems/ELEVTRBL/)  
-[Bàn Cờ, xử lí bằng prefix sum 2d](https://oj.vnoi.info/problem/vboard/) 
+[Bàn Cờ, xử lí bằng prefix sum 2d](https://oj.vnoi.info/problem/vboard/)  
 [Thùng Nước (DSU)](https://oj.vnoi.info/problem/ioibin)
