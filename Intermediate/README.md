@@ -5,4 +5,4 @@ List bài tập:
 [vấn đề với thang máy_elevator trouble](https://www.spoj.com/problems/ELEVTRBL/)  
 [Bàn Cờ, xử lí bằng prefix sum 2d](https://oj.vnoi.info/problem/vboard/)  
 [Thùng Nước (DSU)](https://oj.vnoi.info/problem/ioibin)  
-[Xếp Gạch] (https://drive.google.com/file/d/1w38SW5nMAvhrXNDYKELU7FSaKl79MB8h/view?usp=sharing)
+[Xếp Gạch](https://drive.google.com/file/d/1w38SW5nMAvhrXNDYKELU7FSaKl79MB8h/view?usp=sharing)
